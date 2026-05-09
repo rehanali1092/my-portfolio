@@ -675,3 +675,9 @@ footer {
         font-size: 14px;
     }
 }
+.contact-links {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: flex-start;
+}
